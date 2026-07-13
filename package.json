@@ -1,0 +1,13 @@
+{
+  "name": "personal_website",
+  "version": "1.0.0",
+  "description": "for my personal website",
+  "license": "ISC",
+  "author": "Odinaka",
+  "type": "commonjs",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node app.js"
+  }
+}
