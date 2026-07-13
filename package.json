@@ -5,9 +5,9 @@
   "license": "ISC",
   "author": "Odinaka",
   "type": "commonjs",
-  "main": "app.js",
+  "main": "server.js",
   "scripts": {
     "test": "echo \"No tests specified\" && exit 0",
-    "start": "node app.js"
+    "start": "node server.js"
   }
 }
